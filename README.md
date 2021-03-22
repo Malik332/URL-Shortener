@@ -23,6 +23,6 @@ apt update && apt install git -y && git clone https://github.com/Malik332/URL-Sh
 ```
 
 ### Find Me on :
-[!Instagram](https://img.shields.io/badge/Instagram-malik__atiquz__.zaman-blue) (www.instagram.com/malik_atiquz_.zaman)
+[![Instagram](https://img.shields.io/badge/Instagram-malik__atiquz__.zaman-blue)(www.instagram.com/malik_atiquz_.zaman)
 
 

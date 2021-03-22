@@ -12,7 +12,7 @@
 
 ```git clone https://github.com/Malik332/URL-Shortener ```
 
-```cd shorturl```
+```cd URL-Shortener```
 
 ```bash setup.sh```
 

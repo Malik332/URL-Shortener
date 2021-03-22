@@ -20,8 +20,8 @@
 ### Or, Use Single Command
 ```
 apt update && apt install git -y && git clone https://github.com/Malik332/URL-Shortener  && cd shorturl && bash setup.sh && shorturl
-``
+```
 
-###  Find Me on :
+### Find Me on :
 
 

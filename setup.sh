@@ -10,7 +10,7 @@ printf "\e[0m\e[1;93m   \___ \|  _ \ / _ \|  __| __| \e[0m\e[1;92m| |  | |  _  /
 printf "\e[0m\e[1;93m   ____) | | | | (_) | |  | |_  \e[0m\e[1;92m| |__| | | \ \| |____ \e[0m\n"
 printf "\e[0m\e[1;93m  |_____/|_| |_|\___/|_|   \__| \e[0m\e[1;92m \____/|_|  \_\______|\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[1;93m        Created By  \e[0m\e[1;91m( \e[0m\e[1;92mMALIK ATIQUZ ZAMAN\e[0m\e[1;91m)\e[0m\n"
+printf "\e[0m\e[1;93m        Created By :Hacker \e[0m\e[1;91m( \e[0m\e[1;92mMALIK ATIQUZ ZAMAN\e[0m\e[1;91m)\e[0m\n"
 printf "\e[0m\n"
 printf "\e[0m\e[1;93m    Github :\e[0m\e[1;96m MALIK332 \e[0m\e[1;97m| \e[0m\e[1;93mInstagram :\e[0m\e[1;96m @malik_atiquz_.zaman\e[0m\n"
 }
@@ -32,8 +32,8 @@ echo 'termux-open-url https://github.com/MALIK332/' > /data/data/com.termux/file
 echo 'termux-open-url https://github.com/MALIK332/' > /data/data/com.termux/files/usr/bin/MALIK332
 echo 'termux-open-url https://www.instagram.com/malik_atiquz_.zaman' > /data/data/com.termux/files/usr/bin/instagram
 echo 'termux-open-url https://www.instagram.com/malik_atiquz_.zaman/' > /data/data/com.termux/files/usr/bin/Instagram
-chmod +x /data/data/com.termux/files/usr/bin/htr-tech
-chmod +x /data/data/com.termux/files/usr/bin/HTR-TECH
+chmod +x /data/data/com.termux/files/usr/bin/MALIK332
+chmod +x /data/data/com.termux/files/usr/bin/MALIK332
 chmod +x /data/data/com.termux/files/usr/bin/instagram
 chmod +x /data/data/com.termux/files/usr/bin/Instagram
 chmod +x /data/data/com.termux/files/usr/bin/shorturl

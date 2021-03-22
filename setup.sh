@@ -44,6 +44,6 @@ printf " \e[0m\e[1;91m[\e[0m\e[1;97m~\e[0m\e[1;91m]\e[0m\e[1;93m Installation Su
 sleep 2
 printf "\e[0m\n"
 printf "\e[0m\n"
-printf " \e[0m\e[1;91m[\e[0m\e[1;97m~\e[0m\e[1;91m]\e[0m\e[1;93m Type \e[0m\e[1;92mShortUrl \e[0m\e[1;93mto Run this Tool \e[0m\n"
+printf " \e[0m\e[1;91m[\e[0m\e[1;97m~\e[0m\e[1;91m]\e[0m\e[1;93m Type \e[0m\e[1;92mUrl_shortener \e[0m\e[1;93mto Run this Tool \e[0m\n"
 printf "\e[0m\n"
 printf "\e[0m\n"

@@ -21,7 +21,8 @@
 ```
 apt update && apt install git -y && git clone https://github.com/Malik332/URL-Shortener  && cd shorturl && bash setup.sh && shorturl
 ``
+
 ## [+] Find Me on :
 
 [![Github](https://img.shields.io/badge/Github-Malik-green?style=for-the-badge&logo=github)](https://github.com/MALIK332)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/malik_atiquz_.zaman)
+[![Instagram](https://img.shields.io/badge/IG-%40malik-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/malik_atiquz_.zaman)
